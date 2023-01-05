@@ -75,7 +75,7 @@ do {
 		    }
 		}
 
-		//LIST
+	
 		 if (memcmp(received, "LIST", 4) == 0) {
 			 
 			int res;
